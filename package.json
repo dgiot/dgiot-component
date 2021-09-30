@@ -1,7 +1,7 @@
 {
   "name": "@dgiot/dgiot-component",
   "description": "dgiot-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "h7ml <h7ml@qq.com>",
   "license": "Mozilla Public License Version 2.0",
   "main": "dist/dgiot-component.js",
@@ -23,8 +23,8 @@
     "loadsh": "^0.0.4",
     "md5": "^2.3.0",
     "moment": "^2.29.1",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^6.0.6",
+    "sass": "^1.32.8",
+    "sass-loader": "^7.0.0",
     "vue": "^2.5.11",
     "vuex": "^3.6.2",
     "vuex-persistedstate": "^4.0.0"
