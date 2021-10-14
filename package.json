@@ -1,7 +1,7 @@
 {
   "name": "@dgiot/dgiot-component",
   "description": "dgiot-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "h7ml <h7ml@qq.com>",
   "license": "Mozilla Public License Version 2.0",
   "main": "dist/dgiot-component.js",
